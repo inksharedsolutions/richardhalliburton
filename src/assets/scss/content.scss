@@ -204,7 +204,7 @@
     span {
 
         &:nth-child(2) {
-            font-family: "augusta-free";
+            font-family: 'Great Vibes', cursive;
             text-transform: capitalize !important;
         }
     }
@@ -216,10 +216,10 @@
     border-radius: 40px;
     padding: 2% 16%;
     margin-top: 5%;
+    color: white !important;
 
     a {
         text-transform: uppercase;
-        color: white;
     }
 }
 
@@ -595,7 +595,7 @@
 
 #author-image-container {
     img {
-        width: 272px;
+        width: 400px;
         max-width: 100%;
     }
 }

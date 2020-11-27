@@ -26,8 +26,8 @@ const MidBook = (props) => {
                             </h1>
 
                             <p data-aos="fade-up" data-aos-duration="2000">
-                            R. Michael Richard, born of mixed race during the civil rights movement, struggled with identity issues much of his young life.
-                            R. Michael served as a missionary 11 years and afterward in the United States for 14 more. He studied at many technical schools and colleges, eventually earning a medical certificate, a B.S. Psychology and M.A. Education (Leadership).
+                            The descendants of King Solomon's first born by the Queen of Sheba, vanish for 400 years.<br /><br />
+                            R. Michael's fictitious world speculates why and how the heirs to the throne of Solomon and Kingdom of Sheba exist and operate today.
                             </p>
 
                             <button className="btn-book-featured" data-aos="fade-up" data-aos-duration="3000">
