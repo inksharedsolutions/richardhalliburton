@@ -15,7 +15,7 @@ const ATB = (props) => {
     const slug = (props.location.href);
 
     const disqusConfig = {
-        shortname: 'richard-halliburton',
+        shortname: 'r-michael-richard',
         config: { identifier: 12, slug }
     }
 
@@ -23,7 +23,7 @@ const ATB = (props) => {
     return (
         <>
             <Layout>
-                <Helmet title="Book | Richard Halliburton"/>
+                <Helmet title="Book | R. Michael Richard"/>
                 <Nav pathExt={props.path} />
 
                 <Banner

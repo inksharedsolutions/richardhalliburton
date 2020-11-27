@@ -10,7 +10,7 @@ import Author from "../components/author"
 const IndexPage = () => (
   <>
     <Layout>
-      <Helmet title="Home | Richard Halliburton"/>
+      <Helmet title="Home | R. Michael Richard"/>
       <Nav />
       <Banner /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
       <MidBook />

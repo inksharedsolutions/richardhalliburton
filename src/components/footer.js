@@ -22,7 +22,7 @@ const Footer = () => {
                         </h1>
 
                         <p>
-                            Richard Halliburton loves to hear from readers. You can reach him via email.
+                            R. Michael Richard loves to hear from readers. You can reach him via email.
                             Feel free to send questions about writing, his works, interviews
                             and other publicity matters.
                         </p>
@@ -69,7 +69,7 @@ const Footer = () => {
                                 <li>
                                     <a
                                         target="_blank"
-                                        href="https://www.goodreads.com/strattonpress/"
+                                        href="https://www.goodreads.com/book/show/55649845-redemption-lost"
                                         rel="noreferrer">
 
                                         <FontAwesomeIcon

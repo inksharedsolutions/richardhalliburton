@@ -10,7 +10,7 @@ const Author = (props) => {
     return(
         <>
             <Layout>
-                <Helmet title="Author | Richard Halliburton"/>
+                <Helmet title="Author | R. Michael Richard"/>
                 <Nav pathExt={props.path}/>
                 <Banner
                     spanFirst={`About The`}
@@ -52,7 +52,7 @@ const Author = (props) => {
                             <p>
                                 <span className="author-name">
                                     <span className="author-span-ft">Author | Writer </span>
-                                    <span className="ata-name">Richard Halliburton</span>
+                                    <span className="ata-name">R. Michael Richard</span>
                                 </span>
                             </p>
 
