@@ -6,6 +6,7 @@ import Nav from '../components/navigation';
 import Banner from '../components/banner';
 import MidBook from "../components/front-book"
 import Author from "../components/author"
+import Video from "../components/videos"
 
 const IndexPage = () => (
   <>
@@ -15,6 +16,7 @@ const IndexPage = () => (
       <Banner /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
       <MidBook />
       <Author />
+      <Video />
     </Layout>
   </>
 )

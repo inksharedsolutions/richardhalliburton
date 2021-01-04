@@ -301,6 +301,10 @@
         padding: 25px;
     }
 
+    .ata-name {
+        font-size: 1em;
+    }
+
 }
 
 @media screen and (max-width: 650px) {
@@ -515,6 +519,13 @@
             margin-bottom: 0;
         }
     }
+
+    #wrapper-heading-content{
+        margin-bottom: 25px;
+        h1{
+            font-size: 3.5em;
+        }
+    }
 }
 
 @media screen and (max-width: 450px) { 
@@ -602,6 +613,15 @@
         h1{
             font-size: 30px;
         }
+    }
+
+    .book-trailer{
+        h1 {
+            font-size: 3em !important;
+        }
+        // iframe{
+        //     width: 100%;
+        // }
     }
 }
 

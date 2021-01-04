@@ -75,6 +75,11 @@ const ATB = (props) => {
                                     amazon: 'https://www.amazon.com/Redemption-Lost-Beginning-Michael-Richard/dp/1648951325/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1606380474&sr=8-1',
                                     barnes: 'https://www.barnesandnoble.com/w/redemption-lost-r-michael-richard/1137881706?ean=9781648951329',
                                     booksamillion: 'https://www.booksamillion.com/p/Redemption-Lost/R-Michael-Richard/9781648951329?id=8063815731890',
+                                },
+                                hardcover: {
+                                    amazon: 'https://www.amazon.com/Redemption-Lost-Beginning-Michael-Richard/dp/1648952798/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1602270689&sr=8-1',
+                                    barnes: 'https://www.barnesandnoble.com/w/redemption-lost-r-michael-richard/1137881706?ean=9781648952791',
+                                    booksamillion: 'https://www.booksamillion.com/p/Redemption-Lost/R-Michael-Richard/9781648952791?id=8097439242082',
                                 }
                             }}
                         />

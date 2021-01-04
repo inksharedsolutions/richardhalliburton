@@ -9,8 +9,8 @@ const Nav = (props) => {
 
     const pages = [
         'Home',
-        'About-the-Author',
-        'About-the-Book',
+        'About the Author',
+        'About the Book',
         'Contact'
     ]
 
@@ -23,7 +23,7 @@ const Nav = (props) => {
             <li>
                 <Link
                     to={filterUrl}>
-                    {e.replace(/[-/]/g, " ").trim()}
+                    {e.replace('About the','').trim()}
                 </Link>
             </li>
         )

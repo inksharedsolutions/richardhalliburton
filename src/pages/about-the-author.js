@@ -20,15 +20,23 @@ const Author = (props) => {
                     <section className="body-author-contents columns">
 
                         <div className="heading-quote column">
-                            <div className="author-image-container">
+                            {/* <div className="author-image-container">
                                 <img src={AuthorImg} alt="author-profile"/>
-                            </div>
+                            </div> */}
+
+                            <p>
+                                <span className="author-name">
+                                    <span className="author-span-ft">Author | Writer </span>
+                                    <span className="ata-name">R. Michael Richard</span>
+                                </span>
+                            </p>
 
                             <div className="heading-quote">
                                 <h4>
-
+                                    "We meet appropriately on this day of independence, reminded of our freedoms as we embark on a journey no one has ever known. Today, in this room and around this estate, our lives are being changed. Our destinies are being decided. Our hearts are being broken and molded together as one heart to one purpose"
                                 </h4>
                                 <span className="ata-span-fx">
+                                    Author's Quote
                                 </span>
                             </div>
 
@@ -43,17 +51,6 @@ const Author = (props) => {
                             </p>
                             <p>
                             His tumultuous upbringing in the ghettos of Los Angeles, CA. and training as an embedded missionary color his views of the world, religion and politics.
-                            </p>
-
-                            <q>
-                                We meet appropriately on this day of independence, reminded of our freedoms as we embark on a journey no one has ever known. Today, in this room and around this estate, our lives are being changed. Our destinies are being decided. Our hearts are being broken and molded together as one heart to one purpose
-                            </q>
-                            
-                            <p>
-                                <span className="author-name">
-                                    <span className="author-span-ft">Author | Writer </span>
-                                    <span className="ata-name">R. Michael Richard</span>
-                                </span>
                             </p>
 
                         </article>

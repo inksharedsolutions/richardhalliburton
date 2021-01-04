@@ -8,6 +8,10 @@ const Author = () => {
             <section className="upper-main" id="main-upper-author">
                 <div className="grid-two-columns">
 
+                    <div className="grid-child" id="wrapper-heading-content">
+                        <h1>About the<br /> Author</h1>
+                    </div>
+
                     <div className="grid-child" id="author-contents">
 
                         <p data-aos="fade-up" data-aos-duration="2000">
@@ -25,10 +29,10 @@ const Author = () => {
                             Read More
                         </Link>
                     </div>
-
-                    <div className="grid-child" id="author-image-container">
+                    
+                    {/* <div className="grid-child" id="author-image-container">
                         <img alt="author-img" src={AuthorImg} data-aos="fade-up" data-aos-duration="3000" />
-                    </div>
+                    </div> */}
 
                 </div>
             </section>

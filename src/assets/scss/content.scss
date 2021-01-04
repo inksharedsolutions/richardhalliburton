@@ -475,7 +475,7 @@
             margin-bottom: 22px;
             letter-spacing: 8px;
             font-weight: 100;
-            color: #dea44b;
+            color: rgb(216, 120, 100);
         }
     }
 
@@ -598,6 +598,23 @@
         width: 400px;
         max-width: 100%;
     }
+}
+
+#wrapper-heading-content {
+    &:after{
+        content: ''; 
+      width: 85px;
+      height: 2px;
+      background: rgb(211,86,61);
+      position: absolute;
+      margin: 12px 0;
+    }
+  
+    h1{
+      text-transform: capitalize;
+      font-weight: bold;
+      font-size: 6em;
+    }  
 }
 
 
